@@ -7,7 +7,7 @@ cabal-version:       >=1.10
 
 extra-source-files:
   ext_lib/*.cpp
-  ext_lib/*.c
+  ext_lib/*.h
   ext_lib/Makefile
 
 library
